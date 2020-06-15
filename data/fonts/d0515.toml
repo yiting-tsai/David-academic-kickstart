@@ -2,7 +2,7 @@
 name = "d0515"
 
 # Optional Google font URL
-google_fonts = "Rock Salt:400,700|Roboto:300,300italic,700|Roboto+Mono"
+google_fonts = "Rock Salt:400,700|Raleway:300,300italic,700|Roboto+Mono"
 
 # Font families
 heading_font = "Rock Salt"
