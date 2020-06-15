@@ -16,15 +16,17 @@ height = "500px"
 # Slides.
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
-  title = "My Latest Song!"
-  content = "Beer In My Vodka :beer:"
+  title = "Beer In My Vodka :beer:"
+  content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
-  overlay_color = "#666"  # An HTML color value.
-  overlay_img = "static/img/ouf.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = "#666"  # An HTML color value.
+  # Image path relative to your `static/img/` folder.
+  overlay_img = "static/img/ouf.jpeg"  
+  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.5  
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
@@ -35,20 +37,25 @@ height = "500px"
   cta_icon = "youtube"
 
 [[item]]
-  title = "Left"
-  content = "I am left aligned :smile:"
+  title = "Tunes in progress"
+  content = "More and more good songs are coming :microphone:"
   align = "left"
 
-  overlay_color = "#555"  # An HTML color value.
+  overlay_color = "#000000"  # An HTML color value.
   overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
-[[item]]
-  title = "Right"
-  content = "I am right aligned :smile:"
-  align = "right"
+  cta_label = "Tune me in!"
+  cta_url = "https://soundcloud.com/user-630155630"
+  cta_icon_pack = "fab"
+  cta_icon = "soundcloud"  
 
-  overlay_color = "#333"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+# [[item]]
+#  title = "Right"
+#  content = "I am right aligned :smile:"
+#  align = "right"
+
+#  overlay_color = "#333"  # An HTML color value.
+#  overlay_img = ""  # Image path relative to your `static/img/` folder.
+#  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 +++
