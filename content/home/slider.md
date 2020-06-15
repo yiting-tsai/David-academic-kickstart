@@ -24,9 +24,9 @@ height = "500px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
   # Image path relative to your `static/img/` folder.
-  overlay_img = "static/img/ouf.jpeg"  
+  overlay_img = "slider/ouf.jpeg"  
   # Darken the image. Value in range 0-1.
-  overlay_filter = 0.5  
+  overlay_filter = 0.3
 
   # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
