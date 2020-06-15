@@ -1,6 +1,6 @@
 ---
 title: Beer In My Vodka
-summary: An example of using the in-built project page.
+summary: ""
 tags:
 - Beer In My Vodka
 - Music
@@ -10,7 +10,7 @@ date: "2020-05-15T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Beer In My Vodka Cover
+  caption: Young DSM - Beer In My Vodka
   focal_point: Smart
 
 links:
@@ -21,14 +21,14 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: https://www.youtube.com/watch?v=p52MkZufIO0
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-# description of the project
+#### Lyrics
