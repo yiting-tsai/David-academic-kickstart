@@ -45,12 +45,9 @@ social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/youngdsm.music
 - icon: youtube
   icon_pack: fab
-  link: https://www.youtube.com/channel/UCXMpbMePu2hLezO4-PA1wLA
+  link: https://www.youtube.com/channel/UCiqC3d_wSrolqHFZr-cxLEA
 - icon: itunes
   icon_pack: fab
   link: https://music.apple.com/us/artist/young-dsm/1469687578
@@ -60,6 +57,9 @@ social:
 - icon: soundcloud
   icon_pack: fab
   link: https://soundcloud.com/user-630155630
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/youngdsm.music
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

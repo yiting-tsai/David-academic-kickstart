@@ -18,7 +18,7 @@ height = "500px"
 [[item]]
   title = "Beer In My Vodka :beer:"
   content = ""
-  align = "center"  # Choose `center`, `left`, or `right`.
+  align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
@@ -39,11 +39,11 @@ height = "500px"
 [[item]]
   title = "Tunes in progress"
   content = "More and more good songs are coming :microphone:"
-  align = "left"
+  align = "center"
 
   # overlay_color = "#000000"  # An HTML color value.
   overlay_img = "slider/ouf.jpeg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.8  # Darken the image. Value in range 0-1.
 
   cta_label = "Tune me in!"
   cta_url = "https://soundcloud.com/user-630155630"
