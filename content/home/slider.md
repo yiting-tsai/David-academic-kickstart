@@ -24,7 +24,7 @@ height = "500px"
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   # overlay_color = "#666"  # An HTML color value.
   # Image path relative to your `static/img/` folder.
-  overlay_img = "slider/ouf.jpeg"  
+  overlay_img = "beer-in-my-vodka.png"  
   # Darken the image. Value in range 0-1.
   overlay_filter = 0.3
 
@@ -41,9 +41,9 @@ height = "500px"
   content = "More and more good songs are coming :microphone:"
   align = "left"
 
-  overlay_color = "#000000"  # An HTML color value.
-  overlay_img = ""  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  # overlay_color = "#000000"  # An HTML color value.
+  overlay_img = "slider/ouf.jpeg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.1  # Darken the image. Value in range 0-1.
 
   cta_label = "Tune me in!"
   cta_url = "https://soundcloud.com/user-630155630"

@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Young DSM is a rapper and musician in Rap, Power Trap and Hip-Hop since 2018. Majorly inspired by US Hip-Hop, Japenese Trap and Rock culture.
 
-Genres:
+Interests:
 - Rap
 - Power Trap
 - American Hip-Hop
@@ -41,7 +41,7 @@ Genres:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
